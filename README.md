@@ -29,7 +29,7 @@ While it is quite tempting to jump into the writing process, you will be better 
 
 2) The writer should get a beginning to end walk through of the system from the programmer or distributer.  If there is any early stage drafts of user purpose documents, then they should be gathered as well.  
 
-3) The writer should define the user audience of the software documentation.  Within this definition, cognitive expectations should be outlined.  The writer will use this definition to decide at what level of foundation information needs to be included in the doucment or training product.  The writer will also use this opportunity to search for any other user characteristics that will have to be considered in the doucment/training design.       ADD LINK TO EXAMPLE
+3) The writer should define the user audience of the software documentation.  Within this definition, cognitive expectations should be outlined.  The writer will use this definition to decide at what level of foundation information needs to be included in the doucment or training product.  The writer will also use this opportunity to search for any other user characteristics that will have to be considered in the doucment/training design.   **ADD EXAMPLE LINK**
 
 4) Decide on Aesthetics---colors, shape/type of highlighting in visual aids, get buy in on scope from customer/leader.  
 
